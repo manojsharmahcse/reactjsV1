@@ -1,0 +1,12 @@
+/* Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Theme Variables */
+:root {
+  --primary-white: #ffffff;
+  --primary-black: #000000;
+  --primary-orange: #ff5a3c;
+  --secondary-orange: #ff3b21;
+}
